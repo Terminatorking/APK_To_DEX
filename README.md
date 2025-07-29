@@ -1,25 +1,9 @@
 Apk to dex file converter useing php
 
-how to use:
+How to use:
 
-1. first create your project apk in android studio and go to your apk directory
-2. download the project and drop your apk file to run.bat file
-3. your dex file create in apk directory
-
-attension: this is content of run.bat
-
-<pre>
-@ECHO OFF
-php E:\My_Projects\php\dex-minifier\command.php minify-dex %1
-REM php E:\My_Projects\php\dex-minifier\command.php minify-dex E:\My_Projects\php\dex-minifier\temp\app-debug.apk
-PAUSE
-</pre>
-
-you must enter directory of this project in your pc in run.bat file (in line 2 and 3) for example:
-
-<pre>
-@ECHO OFF
-php C:\Example\dex-minifier\command.php minify-dex %1
-REM php C:\Example\dex-minifier\command.phpcommand.php minify-dex C:\Example\dex-minifier\command.php\temp\app-debug.apk
-PAUSE
-</pre>
+1. First create your project apk in android studio and go to your apk directory
+2. Download the project rar in github and extract the project
+3. Place your apk file in the project folder, where run.bat is located.
+4. Then drop your apk to run.bat
+5. Done! your apk dex ready (this file will create in project folder)
