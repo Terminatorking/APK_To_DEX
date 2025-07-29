@@ -2,6 +2,8 @@ Apk to dex file converter useing php
 
 How to use:
 
+Attension: to run this project you must install the php programming language you can download from here https://www.php.net/downloads.php
+
 1. First create your project apk in android studio and go to your apk directory
 2. Download the project rar in github and extract the project
 3. Place your apk file in the project folder, where run.bat is located.
@@ -10,6 +12,4 @@ How to use:
 
 if you dont get it watch this video :)
 
-
 https://github.com/user-attachments/assets/3f794aaf-d1d9-4b71-9991-cec5b3708f7b
-
