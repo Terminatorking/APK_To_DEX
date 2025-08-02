@@ -13,8 +13,9 @@ Very Important: you must enable zip extension for php see this page : [EnableZip
 5. Done! your apk dex ready 
 
 This project also convert your dex to jar :)
+
 Important: your project dex and jar will create in YourProjectFiles folder!
 
 if you don't get it watch this video :)
 
-https://github.com/user-attachments/assets/3f794aaf-d1d9-4b71-9991-cec5b3708f7b
+https://github.com/user-attachments/assets/3646ee42-4f44-4d51-bdbd-fb2db1559d60
