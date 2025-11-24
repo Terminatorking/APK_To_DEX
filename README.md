@@ -19,3 +19,7 @@ Important: your project dex and jar will create in YourProjectFiles folder!
 if you don't get it watch this video :)
 
 https://github.com/user-attachments/assets/3646ee42-4f44-4d51-bdbd-fb2db1559d60
+
+Important: I zipped project dependencies now you must unzip it in project folder like this video :
+
+https://github.com/user-attachments/assets/d23be1fb-5277-4717-aecc-075d61c77678
